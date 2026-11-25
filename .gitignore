@@ -1,0 +1,5 @@
+﻿# build artifacts of the screenshot tool
+.shot-work/
+.shot-profile/
+node_modules/
+*.log

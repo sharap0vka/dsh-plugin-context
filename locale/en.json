@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Context and token spend",
+    "description": "Right-sidebar panel with a live map of the session context and of what it costs in yuan: occupancy against the model window, composition by system prompt, tool definitions, MCP servers, skill catalog, messages and tool results, plus provider-reported spend, cache reuse, per-turn totals and the session price on DeepSeek's list. Open it with the + control in the right sidebar and pick the Context card."
+  }
+}
